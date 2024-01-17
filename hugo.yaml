@@ -17,7 +17,9 @@ params:
     - Blog
     - Portfolio
     - PaperMod
-  author: Me
+  author:
+    email: main@o-st.dev
+    name: Oz Shaked Tamari
   images:
     - <link or path of image for opengraph, twitter-cards>
   DateFormat: January 2, 2006
@@ -30,6 +32,7 @@ params:
   ShowCodeCopyButtons: false
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
+    #  ShowFullTextinRSS: true # causes bug:  Namespace prefix content on encoded is not defined
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -39,7 +42,7 @@ params:
   showtoc: false
   tocopen: false
   assets:
-    favicon: <link / abs url>
+    favicon: images/favicon.webp
     favicon16x16: <link / abs url>
     favicon32x32: <link / abs url>
     apple_touch_icon: <link / abs url>
@@ -63,7 +66,7 @@ params:
         url: tags
   homeInfoParams:
     Title: "Greetings \U0001F44B"
-    Content: Welcome to my humble corner on the internet. My name is Oz and I'm a Software Engineer and Architect with passion for the outdoors and tech. In this blog where I plan to write about technology, work, life and any combination in between.
+    Content: Welcome to my humble corner on the internet. My name is Oz and I'm a Software Engineer with passion for the outdoors and tech. In this blog where I plan to write about technology, work, life and any combination in between.
   socialIcons:
     - name: Email
       #      url: mailto:main@o-st.dev
@@ -74,6 +77,8 @@ params:
       url: https://www.linkedin.com/in/ozt-3890324
     - name: github
       url: https://github.com/
+    - name: RSS
+      url: index.xml
   cover:
     hidden: true
     hiddenInList: true
@@ -120,7 +125,8 @@ markup:
   highlight:
     noClasses: false
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+  home:
+    - html
+    - rss
+    - json # is necessary
+
