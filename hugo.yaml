@@ -2,7 +2,6 @@ baseURL: /
 title: Oz Rumbles
 footnoteReturnLinkContents: "↩"
 theme: PaperMod
-
 languageCode: en-us  
 paginate: 5
 enableRobotsTXT: true
