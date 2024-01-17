@@ -49,27 +49,13 @@ params:
     safari_pinned_tab: <link / abs url>
   label:
     text: Oz Shaked Tamari
-    icon: /apple-touch-icon.png
+    icon: /images/favicon.webp
     iconHeight: 35
-  profileMode:
-    enabled: false
-    title: Oz 
-    subtitle: This is subtitle
-    imageUrl: images/oz1.jpg 
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: this is me
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
   homeInfoParams:
     Title: "Greetings \U0001F44B"
     Content: Welcome to my humble corner on the internet. My name is Oz and I'm a Software Engineer with passion for the outdoors and tech. In this blog where I plan to write about technology, work, life and any combination in between.
   socialIcons:
     - name: Email
-      #      url: mailto:main@o-st.dev
       url: "mailto:%63%6F%6E%74%61%63%74%40%6F%2D%73%74%2E%64%65%76"
     - name: Mastodon
       url: https://mastodon.social/@shaked9724
@@ -77,8 +63,6 @@ params:
       url: https://www.linkedin.com/in/ozt-3890324
     - name: github
       url: https://github.com/
-    - name: RSS
-      url: index.xml
   cover:
     hidden: true
     hiddenInList: true
@@ -104,6 +88,7 @@ menu:
     - identifier: about
       name: About
       url: /about/
+        #      pre: <img src="/images/favicon.webp" alt="about icon" style="width:20x;height:20px;">
       weight: 10
     - identifier: hire me
       name: Hire Me
@@ -119,7 +104,7 @@ menu:
       weight: 30
     - identifier: rss
       name: RSS
-      url: /rss/feed.xml
+      url: /post/index.xml
       weight: 35
 markup:
   highlight:
@@ -127,6 +112,11 @@ markup:
 outputs:
   home:
     - html
+  section:
+    - html
     - rss
-    - json # is necessary
+  taxonomy:
+    - html
+  term:
+    - html
 
