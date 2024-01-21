@@ -1,6 +1,5 @@
 ---
 title: "About"
-#date: 2024-01-16T13:50:48+02:00
 ShowReadingTime: false
 ShowWordCount: false
 ShowBreadCrumbs: false
@@ -10,6 +9,6 @@ hideMeta: true
 draft: false
 ---
 
-## TEST
+If curiosity has killed the cat🐈, I should've be gone a while ago 😹. Instead I tend to see life as a constant stream 🚰 of opportunities waiting to be trialed and captured.
 
-Some might say I'm a [Digital Nomad](https://digtal-nomad.url)
+This approached led me to challenge many of my everyday believes from working hours and location to life hacks like [Minimalism](https://mnmlist.com/the-sweet-science-of-less-mail/) and [Stoicism](https://dailystoic.com/how-to-find-and-keep-joy/).

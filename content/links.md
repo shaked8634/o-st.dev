@@ -1,5 +1,5 @@
 ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: "Links"
 ShowReadingTime: false
 ShowWordCount: false
 ShowBreadCrumbs: false
@@ -9,4 +9,6 @@ hideMeta: true
 draft: false
 ---
 
-## Sample Page
+## Running Projects
+* [Cryptoz & Guy](https://jupyter.o-st.dev)
+
