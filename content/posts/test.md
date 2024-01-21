@@ -1,6 +1,6 @@
 ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-date: {{ .Date }}
+title: 'Test'
+date: 2024-01-21T18:30:34+07:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["TAG"]
@@ -37,6 +37,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+## TEST POST
 
 <script src="https://giscus.app/client.js"
         data-repo="shaked8634/o-st.dev"
