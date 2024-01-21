@@ -1,5 +1,5 @@
 ---
-title: 'Post'
+title: 'Posts'
 outputs:
   - html
   - rss
