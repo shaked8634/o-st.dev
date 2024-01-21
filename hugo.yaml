@@ -4,7 +4,6 @@ theme: hugo-coder
 languagecode: en
 defaultcontentlanguage: en
 paginate: 20
-disqusShortname: yourdiscussshortname
 markup:
   highlight: # https://xyproto.github.io/splash/docs/all.html
     style: github-dark
@@ -14,9 +13,9 @@ params:
   description: "Welcome to Oz's rumbles"
   keywords: blog,developer,personal,life
   avatarurl: images/avatar.webp
-  faviconSVG: images/favicon.webp
-  favicon_32: images/favicon.webp
-  favicon_16: images/favicon.webp
+  faviconSVG: images/favicon.svg
+  favicon_32: images/favicon32.png
+  favicon_16: images/favicon16.png
   since: 2024
   enableTwemoji: true
   colorScheme: auto
