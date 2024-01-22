@@ -1,0 +1,6 @@
+github.com/hugomods/giscus v0.1.1 h1:Kb8137Cp2nQJPFb6e+CdXy8nyIAJ2dFIymG4bDdaXWI=
+github.com/hugomods/giscus v0.1.1/go.mod h1:tCRkqNi/sMsLh3kjDesXZNzf4R/w+b5oc5boS/l8Jtw=
+github.com/hugomods/icons v0.6.0 h1:G6RU93okhPPRDh/jqcew9gwkcYpSpg0rCBv4S6yUAFw=
+github.com/hugomods/icons v0.6.0/go.mod h1:cIkSvK6W0q6N4U6n9KGz+QfRWQXAW0INd+1P31gPNGg=
+github.com/hugomods/icons/vendors/bootstrap v0.5.3 h1:3twbdiKpeCudV0UFNBZqUgBLIjG5qcv4lvvlALgR5ro=
+github.com/hugomods/icons/vendors/bootstrap v0.5.3/go.mod h1:SuPcqO3u8gN4epmf+2L1G8pg6X3nXj2D6FYRWd+OIrw=
