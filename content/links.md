@@ -10,5 +10,6 @@ draft: false
 ---
 
 ## Running Projects
-* [Cryptoz & Guy](https://jupyter.o-st.dev)
+* [CryptoZ & Guy](https://dashboard.o-st.dev)
+* [Guy's Jupyter notebook](https://jupyter.o-st.dev)
 
