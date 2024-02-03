@@ -25,12 +25,12 @@ _A cybersecurity early stage startup focusing on External ASM discovery and prot
 - Was responsible for task allocation and time management.
 - Recruited and onboarded new team members (both RnD and QA).
 
-  {{% ttags %}}
+  {{< ttags >}}
   <par>
     <strong>Buzzwords: </strong>
     <t>Product Management</t><t>Hiring</t><t>Cloud Budget Optimisation</t><t>Observability</t><t>SRE</t>
   </par>
-  {{% /ttags %}}
+  {{< /ttags >}}
 
 ---
 
@@ -40,12 +40,12 @@ _A cybersecurity early stage startup focusing on External ASM discovery and prot
 - Developed and oversaw many of the product's components.
 - Advocated DevEx by implementing internal processes to assist developers (e.g. implemented CI/CD, implemented task prioritization).
 
-  {{% ttags %}}
+  {{< ttags >}}
   <par>
     <strong>Buzzwords: </strong>
     <t>Python</t><t>PostgreSQL</t><t>SQLAlchemy</t><t>Redis</t><t>AWS SQS</t><t>Kubernetes</t><t>Docker</t><t>ECS</t><t>Celery</t><t>Marshmallow</t><t>Rocketry</t><t>AWS Lambda</t><t>Gunicorn</t>
   </par>
-  {{% /ttags %}}
+  {{< /ttags >}}
 
 ---
 ## [Mend.io](https://www.mend.io)
@@ -58,12 +58,12 @@ _An AppSec company focusing on supply chain protection_
 - Managed and developed the company’s Open Source [repository](https://github.com/whitesource-ps).
 - Prevented churn by tailoring integrations into customers’ systems.
 
-  {{% ttags %}}
+  {{< ttags >}}
   <par>
     <strong>Buzzwords: </strong>
     <t>Python</t><t>Java</t><t>FastAPI</t><t>RESTful</t><t>YAML</t><t>Git</t><t>SCRUM</t><t>Uvicorn</t>
   </par>
-  {{% /ttags %}}
+  {{< /ttags >}}
 
 ---
 ## [Continuity Software](https://www.continuitysoftware.com)
@@ -75,10 +75,10 @@ _A company focusing on securing enterprise storage appliances and business conti
 - Acted as the main focal point to many of the supported platforms and technologies the product supports.
 - A key contributor to signing the company's largest customer.
 
-  {{% ttags %}}
+  {{< ttags >}}
   <par>
     <strong>Buzzwords: </strong>
     <t>Java</t><t>Hibernate</t><t>Spring</t><t>Oracle</t><t>Tomcat</t><t>SCRUM</t><t>VCS</t><t>SAN</t><t>DRP</t>
-  {{% /ttags %}}
+  {{< /ttags >}}
   </par>
 ---
