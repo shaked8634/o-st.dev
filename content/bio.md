@@ -18,7 +18,7 @@ _Software Consultancy and Engineering company for Cloud and Crypto products_
 ## [Ovalsec](https://ovalsec.com)
 _A cybersecurity early stage startup focusing on External ASM discovery and protection of public assets_
 
-### Software Manager (Jan 2023—Sep 2023)
+### Engineering Manager (Jan 2023—Sep 2023)
 
 - Led the RnD team to reach product milestones in alignment with the business targets that achieved adding new customers.
 - Achieved an MVP milestone in less than a year of development.
