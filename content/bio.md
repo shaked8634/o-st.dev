@@ -11,7 +11,7 @@ draft: false
 ## [ST Consultancy](http://o-st.dev/)
 _Software Consultancy and Engineering company for Cloud and Crypto products_
 
-### Founder and CCO (Sep 2023-Present)
+### Founder and C/.*/O (Sep 2023-Present)
 * Developing a flexible and dynamic Crypto Algo Trading platform to generate alpha.
 ---
 
@@ -25,12 +25,12 @@ _A cybersecurity early stage startup focusing on External ASM discovery and prot
 - Was responsible for task allocation and time management.
 - Recruited and onboarded new team members (both RnD and QA).
 
-  {{< ttags >}}
+{{< ttags >}}
   <par>
     <strong>Buzzwords: </strong>
     <t>Product Management</t><t>Hiring</t><t>Cloud Budget Optimisation</t><t>Observability</t><t>SRE</t>
   </par>
-  {{< /ttags >}}
+{{< /ttags >}}
 
 ---
 
@@ -79,6 +79,6 @@ _A company focusing on securing enterprise storage appliances and business conti
   <par>
     <strong>Buzzwords: </strong>
     <t>Java</t><t>Hibernate</t><t>Spring</t><t>Oracle</t><t>Tomcat</t><t>SCRUM</t><t>VCS</t><t>SAN</t><t>DRP</t>
-  {{< /ttags >}}
   </par>
+  {{< /ttags >}}
 ---
