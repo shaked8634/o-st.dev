@@ -61,7 +61,7 @@ _An AppSec company focusing on supply chain protection_
   {{< ttags >}}
   <par>
     <strong>Buzzwords: </strong>
-    <t>Python</t><t>Java</t><t>FastAPI</t><t>RESTful</t><t>YAML</t><t>Git</t><t>SCRUM</t><t>Uvicorn</t>
+    <t>Python</t><t>Java</t><t>FastAPI</t><t>REST</t><t>YAML</t><t>Git</t><t>SCRUM</t><t>Uvicorn</t>
   </par>
   {{< /ttags >}}
 

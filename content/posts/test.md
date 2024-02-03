@@ -3,7 +3,7 @@ title: 'Test'
 date: 2024-01-21T18:30:34+07:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["TAG"]
+tags: ["Python"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
