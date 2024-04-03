@@ -13,7 +13,7 @@ draft: false
 - For providing and leading scalable and robust architecture
 - Grow from a prototype/POC stage into full product where the sky is the limit
 
-## As a consultant
+## As a Consultant
 - For development process
 - Need to build a team? 
 - Need to build pipeline and don't know where to start?

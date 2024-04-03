@@ -1,5 +1,5 @@
 baseurl: /
-title: Oz rumbles 
+title: Oz Rumbles
 theme: hugo-coder
 languagecode: en
 defaultcontentlanguage: en
@@ -45,6 +45,10 @@ params:
       icon: fa  fa-rss fa-2x
       weight: 30
       url: posts/index.xml
+    - name: PGP Key
+      icon: fa  fa-lock fa-2x
+      weight: 35
+      url: pgp_key.asc
 taxonomies:
   category: categories
   series: series
