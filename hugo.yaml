@@ -50,6 +50,17 @@ params:
       icon: fa  fa-lock fa-2x
       weight: 35
       url: pgp_key.asc
+  comments:
+    provider: cusdis
+    commentable:
+      page: false
+      post: true
+      docs: false
+      project: false
+      publication: false
+      talk: false
+  cusdis:
+    data_app_id: 59726d27-33ee-480a-bc8f-d90336991f40
 taxonomies:
   category: categories
   series: series
@@ -72,27 +83,9 @@ menu:
     - name: Cheatsheet
       weight: 5
       url: cheatsheet/
-    - name: Links
+    - name: Projects
       weight: 6
-      url: links/
-module:
-  imports:
-    - path: github.com/hugomods/giscus
-comments:
-  provider: giscus
-  commentable:
-    page: false
-    post: true
-    docs: false
-    project: false
-    publication: false
-    talk: false
-  giscus:
-    repo: shaked8634/o-st.dev
-    repo_id: R_kgDOLFKS0Q
-    category: Announcements
-    category_id: DIC_kwDOLFKS0c4CckxF
-    mapping: pathname
-    label: comment
-    theme: preferred_color_scheme
-    reactions_enabled: 0
+      url: projects/
+#module:
+#  imports:
+#    - path: github.com/hugomods/giscus
