@@ -20,6 +20,7 @@ params:
   enableTwemoji: true
   colorScheme: auto
   hidecolorschemetoggle: false
+  maxPostsInHomePage: 5
   social:
     - name: Email
       icon: fa fa-envelope fa-2x
