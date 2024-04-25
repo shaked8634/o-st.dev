@@ -1,5 +1,5 @@
 ---
-title: "Links"
+title: "Projects"
 ShowReadingTime: false
 ShowWordCount: false
 ShowBreadCrumbs: false
