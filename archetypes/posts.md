@@ -22,7 +22,7 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ShowCodeCopyButtons: true
 cover:
-    image: "../site/images/wallpaper.jpg"
+    image: "/images/background.png"
     alt: "<alt text>"
     caption: "<text>"
     relative: false

@@ -21,7 +21,7 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ShowCodeCopyButtons: true
 cover:
-    image: "static/images/wallpaper.jpg"
+    image: "/images/background.png"
     alt: "Fancy wallpaper"
     caption: "If you read this I failed to find a suitable wallpaper which is sad"
     relative: false
